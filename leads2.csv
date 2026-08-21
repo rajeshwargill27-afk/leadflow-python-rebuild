@@ -1,0 +1,6 @@
+name,industry,company_size,geography,title,source
+Acme Sofas,Sofa manufacturer,80,USA,Procurement Manager,Apollo export
+Tiny Retail Co,Retailer,12,Canada,Owner,Apollo export
+BigCo Furniture,Mixed furniture,200,USA,Operations Director,Apollo export
+Small Biz,Sofa manufacturer,5,Canada,Unknown,Cold scrape
+MidSize Manufacturing,Mixed furniture,60,Germany,Sourcing Manager,Apollo export
